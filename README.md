@@ -1,4 +1,4 @@
-# covid-central
+# Pandemic central
 Centralized repository for the source code of the platform which will enable decentralized but targetted pandemic relief efforts.
 
 ## Why?
