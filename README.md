@@ -1,8 +1,8 @@
 # covid-central
-Centralized repository for decentralized but targetted covid relief efforts.
+Centralized repository for the source code of the platform which will enable decentralized but targetted pandemic relief efforts.
 
 ## Why?
-To end covid in a country, the entire country and its different systems & subsystems need to exert concentrated efforts in combating the pandemic. This repository is a quest in building one platform which connects all the different real world entities playing role in this fight with automation, optimization and visualization.
+To end pandemic in a country, the entire country and its different systems & subsystems need to exert concentrated efforts in combating the pandemic. This repository is a quest in building one platform which connects all the different real world entities playing role in this fight with automation, optimization and visualization.
 
 ### High level module split
 - Treat
